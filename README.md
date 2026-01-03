@@ -42,7 +42,7 @@ I'm passionate about bridging the gap between hardware and software, focusing on
 
 ### Featured Projects
 
-- **[Traffic Light Controller](https://github.com/valentin-haub/esp32-traffic-light-controller):** Multitasking firmware for ESP32 using **FreeRTOS** and **StateSmith**.
+- **[Traffic Light Management System](https://github.com/valentin-haub/esp32-traffic-light-management-system):** Multitasking firmware for ESP32 using **FreeRTOS** and **StateSmith**.
 - **[Conway's Game of Life](https://github.com/valentin-haub/game-of-life):** An interactive **Java** implementation of Conway's Game of Life with an UI.
 - **[Turing Machine Sim](https://github.com/valentin-haub/turing-machine):** An interactive **Java** CLI application to visualize theoretical algorithms.
 
