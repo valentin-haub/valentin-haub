@@ -1,6 +1,6 @@
 ## Hi there, I'm Valentin!
 
-I'm an **Engineering Informatics** student at **THM (Technische Hochschule Mittelhessen)** and currently working as a **Working Student at 5D Institut GmbH** in Gießen.
+I'm an **Engineering Informatics** student at **Technical University of Applied Sciences Mittelhessen (THM)** and currently working as a **Working Student at 5D Institut GmbH** in Gießen.
 
 I'm passionate about bridging the gap between hardware and software — with a strong focus on Embedded Systems, Real-Time Operating Systems, Industrial Automation, and clean Software Architecture.
 
